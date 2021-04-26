@@ -29,7 +29,7 @@
 
     <properties>
         <awaitility.version>1.4.0</awaitility.version>
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
         <gatling-maven-plugin.version>2.1.5</gatling-maven-plugin.version>
         <gatling.version>2.1.5</gatling.version>
